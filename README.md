@@ -23,7 +23,7 @@ Before installing, you must have the following installed on your system:
 You can install and configure everything automatically with a single command. Open your terminal and run:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/skill3472/arctis-chatmix/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/skill3472/arctis-chatmix/refs/heads/master/install.sh | bash
 ```
 
 ### How to Use It
@@ -40,7 +40,7 @@ Once installed, open your system's sound settings or a tool like `pavucontrol`. 
 Want to remove it? This command will stop the background services, delete the project files, and instantly restore your live audio routing back to normal:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/skill3472/arctis-chatmix/main/uninstall.sh | bash
+curl -sSL https://raw.githubusercontent.com/skill3472/arctis-chatmix/refs/heads/master/uninstall.sh | bash
 ```
 
 ## Troubleshooting
